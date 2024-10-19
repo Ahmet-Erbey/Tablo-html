@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(9, 3, 3);
+    color: #ffffff;
+}
+.dotted-bold-divider{
+    border: 5px dashed #ff0000;
+}
+.baslık{
+    color:hwb(252 50% 50% / 0.84);
+}
+#tablos{
+    background-color: #ff2121;
+}
